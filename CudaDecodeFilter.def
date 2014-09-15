@@ -1,0 +1,8 @@
+;
+LIBRARY		CudaDecodeFilter.ax
+DESCRIPTION	'CUDA H.264 Decoder'
+EXPORTS
+DllGetClassObject PRIVATE
+DllCanUnloadNow PRIVATE
+DllRegisterServer PRIVATE
+DllUnregisterServer PRIVATE
